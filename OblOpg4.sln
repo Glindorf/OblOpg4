@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OblOpg4", "OblOpg4\OblOpg4.csproj", "{573653AE-6A8A-4090-94E3-45CA06B3C747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{573653AE-6A8A-4090-94E3-45CA06B3C747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573653AE-6A8A-4090-94E3-45CA06B3C747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573653AE-6A8A-4090-94E3-45CA06B3C747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573653AE-6A8A-4090-94E3-45CA06B3C747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8519B03F-183D-498D-B1C4-108AAE497A10}
+	EndGlobalSection
+EndGlobal
